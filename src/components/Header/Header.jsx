@@ -33,7 +33,7 @@ const Header = ({ setCoordinates }) => {
                     <Lottie className="lg:m-8 md:m-8 m-6" animationData={travel} style={{ height: "75px", width: "75px", display: "inline-block" }} loop={true} />
                     <a href="http://localhost:3000/">
                         <Typography variant="h5" className={classes.title} style={cursive}>
-                            TravelBliss
+                            Yaatrigan
                         </Typography>
                     </a>
                 </span>
