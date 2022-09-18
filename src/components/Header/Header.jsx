@@ -31,7 +31,7 @@ const Header = ({ setCoordinates }) => {
             <Toolbar className={classes.toolbar}>
                 <span style={{ whiteSpace: "no-wrap" }}>
                     <Lottie className="lg:m-8 md:m-8 m-6" animationData={travel} style={{ height: "75px", width: "75px", display: "inline-block" }} loop={true} />
-                    <a href="http://localhost:3000/">
+                    <a href="https://spheron.infura-ipfs.io/ipfs/QmYjvAzC5uqdA6iXPcQhLadB9BVHsz9veBjXqD1nF9Zktj/">
                         <Typography variant="h5" className={classes.title} style={cursive}>
                             Yaatrigan
                         </Typography>
