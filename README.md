@@ -1,5 +1,3 @@
-
-# TravelBliss
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78898621/190886694-85408623-bee3-4bd8-807b-b4fa580ac281.png" alt="BANNER">
 </p>
@@ -30,10 +28,10 @@ Tech Stack used for the TravelBliss project are :-
 - Google Cloud APIs
 - Working the APIs
 - Testing API on Postman
-## What's next for TravelBliss
+## What's next for Yaatrigan
 - Adding feature of booking rooms in hotels
 - Adding feature of booking table in restaurant beforehand
 - Adding feature of how to travel
 - Cost of traveling from one place to another
 ## GoDaddy registered domain
-[travelbliss.co](travelbliss.co)
+[Yaatrigan.co](Yaatrigan.co)
