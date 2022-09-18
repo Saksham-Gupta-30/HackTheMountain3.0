@@ -1,6 +1,8 @@
 
 # TravelBliss
-![Logo](https://raw.githubusercontent.com/Saksham-Gupta-30/Images/main/Travel.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78898621/190886694-85408623-bee3-4bd8-807b-b4fa580ac281.png" alt="BANNER">
+</p>
 
 ## Inspiration
 We have to search on Google every time we want to know about Hotels, Restaurants, and Attractions if we are traveling somewhere. The results are also not filtered as we want. This led us to make such an application where we can search anyplace in the whole world which tell us about its all hotels, restaurants and attractions and filter according to ratings given by other people. 
